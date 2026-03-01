@@ -1,0 +1,1 @@
+{{ gen_time_series('software_chargeback', 'tsschg_office365_usage' ) }}
