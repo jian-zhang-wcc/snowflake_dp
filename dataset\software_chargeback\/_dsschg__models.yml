@@ -1,0 +1,43 @@
+version: 2
+
+models:
+      - name: dsschg_adobe
+      - name: dsschg_copilot
+      - name: dsschg_copilot_licence
+      - name: dsschg_copilot_usage
+      - name: dsschg_fresh
+      - name: dsschg_hiko
+      - name: dsschg_miro
+      - name: dsschg_nitro
+      - name: dsschg_office365_e5_licence
+      - name: dsschg_office365_f3_licence
+      - name: dsschg_office365_project_plan3_licence
+      - name: dsschg_office365_project_plan5_licence
+      - name: dsschg_office365_usage
+      - name: dsschg_project_activity
+      - name: dsschg_project_planner3
+      - name: dsschg_project_planner5
+      - name: dsschg_visio
+      - name: dsschg_adobe
+
+      - name: dsschg_copilot_licence
+
+      - name: dsschg_copilot_usage
+
+      - name: dsschg_fresh
+
+      - name: dsschg_hiko
+
+      - name: dsschg_miro
+
+      - name: dsschg_nitro
+
+      - name: dsschg_office365_e5_licence
+
+      - name: dsschg_office365_f3_licence
+
+      - name: dsschg_office365_project_plan3_licence
+
+      - name: dsschg_office365_project_plan5_licence
+
+      - name: dsschg_office365_usage
