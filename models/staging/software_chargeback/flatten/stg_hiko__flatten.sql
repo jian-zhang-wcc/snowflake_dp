@@ -1,0 +1,1 @@
+{{ gen_stg_flatten('stg_software_chargeback_hiko') }}
