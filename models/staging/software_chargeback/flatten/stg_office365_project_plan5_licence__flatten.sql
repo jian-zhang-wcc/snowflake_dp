@@ -1,0 +1,1 @@
+{{ gen_stg_flatten('stg_software_chargeback_office365_project_plan5_licence') }}
