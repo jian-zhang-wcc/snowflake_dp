@@ -1,0 +1,23 @@
+version: 2
+
+sources:
+  - name: software_chargeback
+    schema: raw_sensitive_software_chargeback
+    tables:   
+      - name: adobe
+      - name: copilot
+      - name: copilot_licence
+      - name: copilot_usage
+      - name: fresh
+      - name: hiko
+      - name: miro
+      - name: nitro
+      - name: office365_e5_licence
+      - name: office365_f3_licence
+      - name: office365_project_plan3_licence
+      - name: office365_project_plan5_licence
+      - name: office365_usage
+      - name: project_activity
+      - name: project_planner3
+      - name: project_planner5
+      - name: visio
