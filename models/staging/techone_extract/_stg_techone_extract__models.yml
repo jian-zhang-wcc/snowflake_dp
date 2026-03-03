@@ -1,0 +1,6 @@
+version: 2
+
+models:
+      - name: stg_techone_extract_employee_staff
+
+      - name: stg_techone_extract_employee_staff__flatten
