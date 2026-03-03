@@ -1,0 +1,1 @@
+{{ gen_stage_flatten('stg_software_chargeback_fresh') }}
