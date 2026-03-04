@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: techone_extract
+    schema: raw_sensitive_techone_extract
+    tables:   
+      - name: employee_staff
