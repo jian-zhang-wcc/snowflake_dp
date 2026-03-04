@@ -1,0 +1,60 @@
+version: 2
+
+models:
+      - name: stg_software_chargeback_adobe
+
+      - name: stg_software_chargeback_copilot
+
+      - name: stg_software_chargeback_copilot_licence
+
+      - name: stg_software_chargeback_copilot_usage
+
+      - name: stg_software_chargeback_fresh
+
+      - name: stg_software_chargeback_hiko
+
+      - name: stg_software_chargeback_miro
+
+      - name: stg_software_chargeback_nitro
+
+      - name: stg_software_chargeback_office365_e5_licence
+
+      - name: stg_software_chargeback_office365_f3_licence
+
+      - name: stg_software_chargeback_office365_project_plan3_licence
+
+      - name: stg_software_chargeback_office365_project_plan5_licence
+
+      - name: stg_software_chargeback_office365_usage
+
+      - name: stg_software_chargeback_project_activity
+
+      - name: stg_software_chargeback_project_planner3
+
+      - name: stg_software_chargeback_project_planner5
+
+      - name: stg_software_chargeback_visio
+
+      - name: stg_software_chargeback_adobe__flatten
+
+      - name: stg_software_chargeback_copilot_licence__flatten
+
+      - name: stg_software_chargeback_copilot_usage__flatten
+
+      - name: stg_software_chargeback_fresh__flatten
+
+      - name: stg_software_chargeback_hiko__flatten
+
+      - name: stg_software_chargeback_miro__flatten
+
+      - name: stg_software_chargeback_nitro__flatten
+
+      - name: stg_software_chargeback_office365_e5_licence__flatten
+
+      - name: stg_software_chargeback_office365_f3_licence__flatten
+
+      - name: stg_software_chargeback_office365_project_plan3_licence__flatten
+
+      - name: stg_software_chargeback_office365_project_plan5_licence__flatten
+
+      - name: stg_software_chargeback_office365_usage__flatten
